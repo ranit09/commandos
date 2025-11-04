@@ -1,0 +1,11 @@
+torch==2.5.0 
+transformers==4.49.0 
+SpeechRecognition 
+PyAudio 
+TTS==0.22.0 
+gruut==2.2.3 
+langchain_community 
+langchain 
+pvporcupine 
+pvrecorder 
+ollama 
